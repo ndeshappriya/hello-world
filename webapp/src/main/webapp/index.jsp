@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to Devops Course<h1>
+    <h1>Welcome to Devops Course - Conducted by Nimantha Deshappriya<h1>
     <p>Please fill in this form to register as a new student.</p>
     <hr>
      
